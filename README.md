@@ -41,5 +41,4 @@ Craftify is a DIY craft suggestion app built using **Kotlin in Android Studio**.
 
 ## 🔧 Future Enhancements
 - **Community Sharing**: Allow users to share their craft ideas.
-- **AI-Based Suggestions**: Improve recommendations using machine learning.
 - **Offline Mode**: Save craft instructions for offline access.
